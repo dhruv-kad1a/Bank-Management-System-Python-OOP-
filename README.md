@@ -15,11 +15,3 @@ This project allows users to create accounts, deposit and withdraw money, update
 - ❌ **Delete Account** – Close your bank account.
 
 ---
-
-## ⚙️ Menu Options
-Press 1 for Creating an Account
-Press 2 for Depositing Money in the Bank
-Press 3 for Withdrawing the Money
-Press 4 for Details
-Press 5 for Updating the Details
-Press 6 for Deleting Your Account
